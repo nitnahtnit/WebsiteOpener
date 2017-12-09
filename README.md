@@ -1,2 +1,2 @@
 # WebsiteOpener
-Open common websites at once
+Basic python script to open multiple websites at once
